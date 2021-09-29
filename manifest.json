@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "name" : "live data of corona",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "corona.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+    
+}
